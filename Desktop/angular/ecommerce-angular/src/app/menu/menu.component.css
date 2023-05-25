@@ -1,0 +1,13 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.logo {
+    width: 4rem;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
